@@ -14,7 +14,7 @@ spring:
   application:
     name: order
 env:
-  cao
+  test
 girl:
   name: lili
   age: 23
